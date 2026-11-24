@@ -1,0 +1,6 @@
+{
+  "name": "NEON VICE: OVERDRIVE",
+  "description": "3D open-world action & high-speed pursuit game set across 5 neon districts with 3 playable protagonists, multi-stage contracts, and dynamic police chases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
